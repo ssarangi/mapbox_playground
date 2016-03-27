@@ -1,3 +1,6 @@
 [submodule "mapbox-gl-js"]
 	path = mapbox-gl-js
 	url = git@github.com:ssarangi/mapbox-gl-js.git
+[submodule "mapbox-gl-directions"]
+	path = mapbox-gl-directions
+	url = git@github.com:ssarangi/mapbox-gl-directions.git
